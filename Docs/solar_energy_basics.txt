@@ -1,0 +1,24 @@
+
+            Solar Energy for Rural Communities
+            
+            Solar energy is one of the most suitable renewable energy sources for rural areas in India. 
+            Solar panels convert sunlight directly into electricity using photovoltaic cells.
+            
+            Benefits for Rural Areas:
+            - Low maintenance requirements
+            - Scalable from small home systems to community installations
+            - Reduces dependence on grid electricity
+            - Can power water pumps, lighting, and small appliances
+            - Suitable for remote locations
+            
+            Types of Solar Systems:
+            1. Grid-tied systems: Connected to the main electricity grid
+            2. Off-grid systems: Independent systems with battery storage
+            3. Hybrid systems: Combination of grid-tied and off-grid
+            
+            Cost Information:
+            - 1kW solar system: ₹40,000 to ₹80,000
+            - Government subsidies available up to 70% for residential systems
+            - Payback period: 4-6 years
+            - System lifespan: 25+ years
+            
